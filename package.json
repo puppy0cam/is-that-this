@@ -1,0 +1,26 @@
+{
+  "name": "is-that-this",
+  "version": "1.0.0",
+  "description": "Checks if a provided value is a part of the is-that-this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"THERE ARE NO BUGS!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puppy0cam/is-that-this.git"
+  },
+  "keywords": [
+    "is-that-this",
+    "is",
+    "that",
+    "this",
+    "exports"
+  ],
+  "author": "puppy0cam",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/puppy0cam/is-that-this/issues"
+  },
+  "homepage": "https://github.com/puppy0cam/is-that-this#readme"
+}
